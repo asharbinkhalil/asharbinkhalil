@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Cyber Security.
 - 👯 I’m looking to collaborate on all cyber security projects i can help with.
 - 💬 Ask me about cyber security, malware analysis, and penetration testing.
-- 📫 How to reach me: asharbinkhalil@gmail.com
+- 📫 How to reach me: asharbinkhalil[at]gmail.com
 - ⚡ My tools: ...
 
 
