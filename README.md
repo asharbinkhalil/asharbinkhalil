@@ -1,4 +1,4 @@
-<img src="https://github.com/asharbinkhalil/asharbinkhalil/blob/main/Files/aboutme.gif" />
+
 <!--
 **asharbinkhalil/asharbinkhalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,3 +41,4 @@ Here are some ideas to get you started:
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=asharbinkhalil&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,C06C84,6C5B7B,355C7D" /></a>
   <a href="https://github.com/asharbinkhalil/">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharbinkhalil&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,355C7D,6C5B7B,C06C84" /></a>
+<img src="https://i.gifer.com/758X.gif" />
