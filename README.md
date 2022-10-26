@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/asharbinkhalil/"><img align="right" width="320" src="https://github.com/asharbinkhalil/asharbinkhalil/blob/main/Files/cartoon-headless-man-hacking-seeklogo.com.svg"></a>
-- 🎓 I'm a Cyber Security UnderGrad at FAST NATIONAL UNIVERSITY. I'm expecting to graduate in 2024.
+- 🎓 I'm a Cyber Security UnderGrad at FAST NATIONAL UNIVERSITY.
+- 🎓 I'm expecting to graduate in 2024.
 - 🔭 I’m currently working on OSINT and Digital Forensics projects.
 - 🌱 I’m currently learning Cyber Security.
 - 👯 I’m looking to collaborate on all cyber security projects i can help with.
