@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 -->
 
-<a href="https://github.com/asharbinkhalil/"><img align="right" width="340" src="https://github.com/asharbinkhalil/asharbinkhalil/blob/main/Files/cartoon-headless-man-hacking-seeklogo.com.svg"></a>
+<a href="https://github.com/asharbinkhalil/"><img align="right" width="330" src="https://github.com/asharbinkhalil/asharbinkhalil/blob/main/Files/cartoon-headless-man-hacking-seeklogo.com.svg"></a>
 - 🎓 I'm a Cyber Security UnderGrad at FAST NATIONAL UNIVERSITY.
 - 🎓 I'm expecting to graduate in 2024.
 - 🔭 I’m currently working on OSINT and Digital Forensics projects.
