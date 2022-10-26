@@ -1,4 +1,4 @@
-<img src="https://github.com/asharbinkhalil/asharbinkhalil/blob/main/Files/758X.gif" alt="c" width="500" height="350" />
+<img src="https://github.com/asharbinkhalil/asharbinkhalil/blob/main/Files/about_me.gif" alt="c" width="900" height="350" />
 
 <!--
 **asharbinkhalil/asharbinkhalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
