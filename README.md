@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## ☎️ Contact Me:
 <p align="center">
-<a href = "mailto:wali6985@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
+<a href = "mailto:asharbinkhalil@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
 <a href = https://github.com/asharbinkhalil><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
 <a href = https://www.linkedin.com/in/asharbinkhalil/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
 <a href = https://www.facebook.com/asharbinkhalil/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
