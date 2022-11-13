@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/HTML5.png" alt="html5" width="57" height="55"/> 
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/CSS3.png" alt="css3" width="57" height="55"/> 
 <img src="https://github.com/SABERGLO/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JavaScript.png" alt="javascript" width="57" height="55"/> 
- <img src="https://user-images.githubusercontent.com/104733166/187543867-773fe7a1-093c-4dd9-9029-a84fae9ddc99.gif" alt="c"/> 
+ <img src="https://user-images.githubusercontent.com/104733166/187543867-773fe7a1-093c-4dd9-9029-a84fae9ddc99.gif" alt="c" width="500" height="500"/> 
 
 
 ## ☎️ Contact Me:
