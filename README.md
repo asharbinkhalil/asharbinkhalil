@@ -1,11 +1,9 @@
 <img src="https://github.com/asharbinkhalil/asharbinkhalil/blob/main/Files/banner.gif" />
-<!--
-**asharbinkhalil/asharbinkhalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
--->
+<!--**asharbinkhalil/asharbinkhalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <p>&nbsp;</p>
+
+## 📚 About Me:
 <a href="https://github.com/asharbinkhalil/"><img align="right" width="330" src="https://github.com/asharbinkhalil/asharbinkhalil/blob/main/Files/cartoon-headless-man-hacking-seeklogo.com.svg"></a>
 - 🎓 I'm a Cyber Security UnderGrad at FAST NATIONAL UNIVERSITY.
 - 🎓 I'm expecting to graduate in 2024.
