@@ -8,10 +8,10 @@
 - 🎓 I'm a Cyber Security UnderGrad at FAST NATIONAL UNIVERSITY.
 - 🎓 I'm expecting to graduate in 2024.
 - 🔭 I’m currently working on OSINT and Digital Forensics projects.
-- 🌱 I’m currently learning Cyber Security.
-- 👯 I’m looking to collaborate on all cyber security projects i can help with.
+- 👯 I’m looking to collaborate on any cyber security projects i can help with.
 - 💬 Ask me about cyber security, malware analysis, and penetration testing.
-- 📫 How to reach me: asharbinkhalil[at]gmail.com
+- 📝 I sometimes blog at [medium.](https://asharbinkhalil.medium.com/)
+- 📫 Always active at asharbinkhalil[at]gmail.com
 - ⚡ My tools:
 
 
@@ -23,7 +23,6 @@
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/HTML5.png" alt="html5" width="57" height="55"/> 
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/CSS3.png" alt="css3" width="57" height="55"/> 
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JavaScript.png" alt="javascript" width="57" height="55"/> 
- 
  
  
  <p align="center"> <img width="233" height="233" src="https://user-images.githubusercontent.com/104733166/187543867-773fe7a1-093c-4dd9-9029-a84fae9ddc99.gif"/>
@@ -42,9 +41,33 @@
 
 
 ## 📈 My Github Stats:     <a href="https://github.com/asharbinkhalil"> <img src="https://komarev.com/ghpvc/?username=asharbinkhalil&label=Profile+Views&color=2e8b57&style=flat" /></a>
-<a href="https://github.com/SABERGLOW"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=asharbinkhalil&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,C06C84,6C5B7B,355C7D" /></a>
+<p align="center">
+<a href="https://github.com/asharbinkhalil"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=asharbinkhalil&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,C06C84,6C5B7B,355C7D" /></a>
   <a href="https://github.com/asharbinkhalil/">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharbinkhalil&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,355C7D,6C5B7B,C06C84" /></a>
  <p align="center">
-<img src="https://i.gifer.com/758X.gif" />
+
  <p>&nbsp;</p>
+ 
+ 
+ ## 🚀 My Projects:
+<p align="center">
+  <a href="https://github.com/asharbinkhalil/khoji)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asharbinkhalil&repo=khoji&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+  
+ 
+   <a href="https://github.com/asharbinkhalil/intellitoolz">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asharbinkhalil&repo=intellitoolz&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+
+  <a href="https://github.com/SABERGLOW/AES">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asharbinkhalil&repo=AES&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+  <a href="https://github.com/asharbinkhalil/Sorting-Visualizer-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asharbinkhalil&repo=Sorting-Visualizer-App&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+  <a href="https://github.com/asharbinkhalil/Classical-Ciphers">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asharbinkhalil&repo=Classical-Ciphers&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+  <a href="https://github.com/asharbinkhalil/CMS-ReactJS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asharbinkhalil&repo=CMS-ReactJS&hide_border=true&border_radius=15&&line_height=24&title_color=020024&text_color=ffffff&icon_color=79dafa&bg_color=45,C06C84,6C5B7B,355C7D" /></a>
+ 
+ 
+ ---
+ ##### This Porfile repo is inspired by [SABERGLOW](https://github.com/SABERGLOW)
