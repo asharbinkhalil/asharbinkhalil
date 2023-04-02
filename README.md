@@ -12,6 +12,7 @@
 - 💬 Ask me about cyber security, malware analysis, and penetration testing.
 - 📝 I sometimes blog at [medium.](https://asharbinkhalil.medium.com/)
 - 📫 Always active at asharbinkhalil[at]gmail.com
+- 👨‍💻 Check out my [portfolio.](https://ashar.netlify.app/)
 - ⚡ My tools:
 
 
