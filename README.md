@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=HELLO+FRIENDS%2C+WELCOME+TO+MY+GITHUB.;LET'S+GET+SOME+OSINT+GOING+ON+HERE.)](https://git.io/typing-svg)
 <a href="https://github.com/asharbinkhalil/"><img align="right" width="330" src="https://github.com/asharbinkhalil/asharbinkhalil/blob/main/Files/cartoon-headless-man-hacking-seeklogo.com.svg">
-- 🎓 I am Cybersecurity UnderGrad at [FAST University](https://nu.edu.pk/), expecting to graduate in 2024.
+- 🎓 Cybersecurity UnderGrad at [FAST University](https://nu.edu.pk/), expecting to graduate in 2024.
 - 🔭 Currently working on an Automated OSINT tool like Maltego.
 - 📝 I sometimes blog at [medium.](https://asharbinkhalil.medium.com/)
 - 📫 Always active at asharbinkhalil[at]gmail.com
