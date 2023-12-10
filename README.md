@@ -3,10 +3,8 @@
 <a href="https://github.com/asharbinkhalil/"><img align="right" width="330" src="https://github.com/asharbinkhalil/asharbinkhalil/blob/main/Files/cartoon-headless-man-hacking-seeklogo.com.svg"></a>
 
 ### I'am
-- 🎓 Cyber Security UnderGrad at FAST NATIONAL UNIVERSITY.
-- 🎓 Expecting to graduate in 2024.
-- 🔭 Currently working on OSINT and Digital Forensics projects.
-- 💬 Ask me about cyber security, malware analysis, and penetration testing.
+- 🎓 Cyber Security UnderGrad at FAST NATIONAL UNIVERSITY, expecting to graduate in 2024.
+- 🔭 Currently working on an Automated OSINT tool like Maltego.
 - 📝 I sometimes blog at [medium.](https://asharbinkhalil.medium.com/)
 - 📫 Always active at asharbinkhalil[at]gmail.com
 - 👨‍💻 Check out my [portfolio.](https://ashar.netlify.app/)
