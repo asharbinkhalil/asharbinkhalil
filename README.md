@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=HELLO+FRIENDS%2C+WELCOME+TO+MY+GITHUB.;LET'S+GET+SOME+OSINT+GOING+ON+HERE.)](https://git.io/typing-svg)
-<a href="https://github.com/asharbinkhalil/"><img align="right" height="300" width="300" src="https://github.com/asharbinkhalil/asharbinkhalil/blob/main/Files/cartoon-headless-man-hacking-seeklogo.com.svg">
+<a href="https://github.com/asharbinkhalil/"><img align="right" width="330" src="https://github.com/asharbinkhalil/asharbinkhalil/blob/main/Files/cartoon-headless-man-hacking-seeklogo.com.svg">
 - 🎓 Cybersecurity UnderGrad at [FAST](https://nu.edu.pk/), expecting to graduate in 2024.
 - 🔭 Currently working on an Automated OSINT tool like Maltego.
 - 📝 I sometimes blog at [medium.](https://asharbinkhalil.medium.com/)
@@ -19,13 +19,12 @@
 <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JavaScript.png" alt="javascript" width="57" height="55"/> 
  
  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="57" height="55"/> 
- <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="gnu" width="57" height="55"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="57" height="55"/>
  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="57" height="55"/> 
  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="57" height="55"/> 
  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="57" height="55"/> 
  
- 
+ </p>
  
  <p align="center"> <img width="233" height="233" src="https://user-images.githubusercontent.com/104733166/187543867-773fe7a1-093c-4dd9-9029-a84fae9ddc99.gif"/></p>
 <!--
