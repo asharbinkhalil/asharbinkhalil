@@ -22,8 +22,9 @@
  <img src="https://assets.labs.ine.com/web/badges/low/OSINT.png" alt="OSINT" width="50" height="50"/> 
 
  </p>
- 
+ <!--
  <p align="center"> <img width="233" height="233" src="https://user-images.githubusercontent.com/104733166/187543867-773fe7a1-093c-4dd9-9029-a84fae9ddc99.gif"/></p>
+ -->
 <!--
 ## ☎️ Contact Me:
 <p align="center">
