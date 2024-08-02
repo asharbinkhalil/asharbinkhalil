@@ -10,10 +10,10 @@
 
 
 <p align="center">
-<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C.svg" alt="c" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/SABERGLOW/SABERGLOW/master/Misc/image%20backups/homeycombs/C.svg" alt="c" width="50" height="50"/> 
  <img src="https://static-00.iconduck.com/assets.00/python-icon-512x509-pb65l7gl.png" alt="python" width="50" height="50"/> 
- <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JavaScript.png" alt="javascript" width="57" height="55"/> 
-<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/SQL.png" alt="SQL" width="57" height="55"/>
+ <img src="https://raw.githubusercontent.com/SABERGLOW/SABERGLOW/master/Misc/image%20backups/homeycombs/JavaScript.png" alt="javascript" width="57" height="55"/> 
+<img src="https://raw.githubusercontent.com/SABERGLOW/SABERGLOW/master/Misc/image%20backups/homeycombs/SQL.png" alt="SQL" width="57" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="57"height="55"/>
  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="57" height="55"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="57" height="55"/>
