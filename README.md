@@ -12,8 +12,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/SABERGLOW/SABERGLOW/master/Misc/image%20backups/homeycombs/C.svg" alt="c" width="50" height="50"/> 
  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="50" height="50"/> 
- <img src="https://raw.githubusercontent.com/SABERGLOW/SABERGLOW/master/Misc/image%20backups/homeycombs/JavaScript.png" alt="javascript" width="57" height="55"/> 
-<img src="https://raw.githubusercontent.com/SABERGLOW/SABERGLOW/master/Misc/image%20backups/homeycombs/SQL.png" alt="SQL" width="57" height="55"/>
+ <img src="https://raw.githubusercontent.com/SABERGLOW/SABERGLOW/master/Misc/image%20backups/homeycombs/JavaScript.png" alt="javascript" width="57" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="57"height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="57" height="55"/>
   <img src="https://juststickers.in/wp-content/uploads/2018/11/kubernetes-wordmark.png" alt="kubernetes" width="57" height="55"/>
