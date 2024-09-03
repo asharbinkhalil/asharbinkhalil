@@ -15,7 +15,6 @@
  <img src="https://raw.githubusercontent.com/SABERGLOW/SABERGLOW/master/Misc/image%20backups/homeycombs/JavaScript.png" alt="javascript" width="57" height="55"/> 
 <img src="https://raw.githubusercontent.com/SABERGLOW/SABERGLOW/master/Misc/image%20backups/homeycombs/SQL.png" alt="SQL" width="57" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="57"height="55"/>
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="57" height="55"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="57" height="55"/>
   <img src="https://juststickers.in/wp-content/uploads/2018/11/kubernetes-wordmark.png" alt="kubernetes" width="57" height="55"/>
  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="57" height="55"/> 
