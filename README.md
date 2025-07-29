@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=HELLO+FRIENDS%2C+WELCOME+TO+MY+GITHUB.;LET'S+GET+SOME+OSINT+GOING+ON+HERE.)](https://git.io/typing-svg)
 <a href="https://github.com/asharbinkhalil/"><img align="right" width="330" src="https://github.com/asharbinkhalil/asharbinkhalil/blob/main/Files/cartoon-headless-man-hacking-seeklogo.com.svg">
 - 🎓 Cybersecurity UnderGrad from [FAST](https://nu.edu.pk/), graduated in 2024.
-- 🔭 Currently working on automated testing of applications.
+- 🔭 Love to code/break/debug/test of applications.
 - 📝 I sometimes blog at [medium.](https://asharbinkhalil.medium.com/)
 - 📫 Always active at asharbinkhalil[at]gmail.com
 - 👨‍💻 Check out my [portfolio.](https://ashar.netlify.app/)
